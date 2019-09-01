@@ -32,7 +32,6 @@ print('There are {} agents. Each observes a state with length: {}'.format(states
 print('The state for the first agent looks like:', states[0])
 
 # Initialize agents
-random_seed = 0
 train_mode = True
 P1_agent = Agent(state_size, action_size, num_agents=1, random_seed=0)
 P2_agent = Agent(state_size, action_size, num_agents=1, random_seed=0)

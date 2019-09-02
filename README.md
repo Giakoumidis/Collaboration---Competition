@@ -47,10 +47,7 @@ More detailed description of the original Unity environment can be found in this
     
   4. Place the file in the root folder of this repository, and unzip (or decompress) the file. 
   
-  5. Open the Jupyter Notebook using the following command from the `Collaboration-Competition-Project` folder.
-	```bash
-	jupyter notebook
-	```
+  5. Run Jupyter Notebook and open the `Collaboration-Competition-Project` folder.
   
   6. Change the kernel to match the `drlnd` environment by using the drop-down `Kernel` menu. 
 

@@ -29,7 +29,7 @@ More detailed description of the original Unity environment can be found in this
 ### Getting Started
 
 #### Setup the environment
-1. Follow steps 1, 3 and 4 in the instructions [here](https://github.com/udacity/deep-reinforcement-learning#dependencies) to set up your Python environment. By following these instructions, you will install PyTorch, the ML-Agents toolkit, and a few more Python packages required for this project.
+1. Follow steps 1, 3 and 4 in the instructions [here](https://github.com/udacity/deep-reinforcement-learning#dependencies) to set up your Python environment. By following these instructions, you will install PyTorch, the ML-Agents toolkit, and a few more Python packages that are required for this project.
 
 2. Clone this repository.
 	
